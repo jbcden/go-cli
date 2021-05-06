@@ -1,2 +1,2 @@
 *.json
-todo
+cmd/todo/todo
